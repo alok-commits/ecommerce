@@ -14,6 +14,9 @@ import java.util.List;
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity
+
+//yet to be implemented google based auth using Oauth2
+
 public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
