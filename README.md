@@ -23,4 +23,4 @@ This is an e-commerce clone application built using Spring Boot. It provides fun
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ecommerce-clone.git
+   git clone https://github.com/alok-commits/ecommerce-clone.git
